@@ -4,6 +4,7 @@ A small message queue system. The plan is to have the queue stored in a local JS
 Run SwarmMQ by doing the following:
 
 cd /backend && npm start
+
 cd /frontend && npm start
 
 ### Front end.
