@@ -8,10 +8,10 @@ cd /backend && npm start
 cd /frontend && npm start
 
 ### Front end.
-The front end is a basic front end that will be used for admin
+The front end is a basic UI that will be used for admin
 purposees.
 
-### back end.
+### Back end.
 The back end consists of headless APIs that can be used post/get
 messages from the queue.
 
